@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-@OSSDAO-ORG•AIRDROP-0x8e71e24eeC9A3C65FC5423E442Eb4ac2FF25CF5d
-
 <!--
 **sidikAli/sidikali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
